@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Aewin/Nations/Mentae.md",
+                "file": "PCs/Celeste.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geminos/Aewin/Nations/Mentae.md",
+                "file": "PCs/Celeste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geminos/Aewin/Nations/Mentae.md",
+                "file": "PCs/Celeste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geminos/Aewin/Nations/Mentae.md"
+                "file": "PCs/Celeste.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "f32c0d518f62b455",
   "lastOpenFiles": [
+    "Geminos/Aewin/Nations/Mentae.md",
     "PCs/Bui.md",
     "Geminos/Aewin/Places/Southern Spine.md",
     "Geminos/Aewin/Nations/Kiseret.md",
@@ -189,7 +190,6 @@
     "The Lady's Code.md",
     "Astaria.md",
     "Auriae.md",
-    "Stenmur Gate.md",
-    "The Circle.md"
+    "Stenmur Gate.md"
   ]
 }

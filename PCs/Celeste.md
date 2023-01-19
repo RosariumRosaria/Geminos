@@ -3,7 +3,7 @@ type: PC
 Nation: [Kiseret]
 location: []
 world: Geminos
-description:""
+description: ""
 player: [Celeste]
 race: [batkin]
 gender: [girl]
