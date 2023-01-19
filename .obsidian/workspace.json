@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Ellanor/Ellanor.md",
+                "file": "Aewin/Nations/Arcus.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geminos/Ellanor/Ellanor.md",
+                "file": "Aewin/Nations/Arcus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geminos/Ellanor/Ellanor.md",
+                "file": "Aewin/Nations/Arcus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geminos/Ellanor/Ellanor.md"
+                "file": "Aewin/Nations/Arcus.md"
               }
             }
           },
@@ -179,17 +179,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f32c0d518f62b455",
+  "active": "51352a4cf7ebff08",
   "lastOpenFiles": [
-    "Geminos/Ellanor/Beluir.md",
-    "Geminos/Aewin/Nations/Arcus.md",
-    "Geminos/Aewin/Places/Southern Spine.md",
-    "Geminos/Aewin/Places/Elys.md",
-    "Geminos/Aewin/Nations/Mezari.md",
-    "Geminos/Aewin/Nations/Patkana.md",
-    "Geminos/Aewin/Nations/Gunpowder Cartel.md",
-    "Geminos/Aewin/Nations/Elysian League.md",
-    "Geminos/Aewin/Nations/Elysia.md",
-    "Geminos/Aewin/Nations/Mentae.md"
+    "Ellanor/Ellanor.md",
+    "Ellanor/Beluir.md",
+    "Aewin/Nations/Arcus.md",
+    "Aewin/Places/Southern Spine.md",
+    "Aewin/Places/Elys.md",
+    "Aewin/Nations/Mezari.md",
+    "Aewin/Nations/Patkana.md",
+    "Aewin/Nations/Gunpowder Cartel.md",
+    "Aewin/Nations/Elysian League.md",
+    "Aewin/Nations/Elysia.md"
   ]
 }
