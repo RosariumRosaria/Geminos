@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Geminos/Ellanor/Places/Virdia.md",
+                "file": "Geminos/Aewin/Aewin.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,8 @@
             "id": "85e7762cabddf54c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Geminos/Ellanor/Nations/Farran.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -47,8 +43,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geminos/Aewin/Aewin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geminos/Aewin/Aewin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geminos/Aewin/Aewin.md"
+              }
             }
           },
           {
@@ -180,17 +179,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f61078e5ff10ce92",
+  "active": "f32c0d518f62b455",
   "lastOpenFiles": [
+    "Templates/Metadata.md",
+    "Templates/Deity Template.md",
+    "Religions/Concord Dawn/Concordia.md",
+    "Religions/Concord Dawn/Concord Dawn.md",
     "Hub.md",
     "Timeline.md",
     "World/Geminos/Geminos.md",
     "World/Geminos/Ellanor/Places/Virdia.md",
     "World/Geminos/Ellanor/Nations/Vellig.md",
-    "World/Geminos/Ellanor/Nations/Farran.md",
-    "World/Geminos/Ellanor/Nations/Beluir.md",
-    "World/Geminos/Aureliana/Places/Northern Spine.md",
-    "World/Geminos/Aureliana/Nations/Sanctus.md",
-    "World/Geminos/Aureliana/Nations/Rosaria.md"
+    "World/Geminos/Ellanor/Nations/Farran.md"
   ]
 }
