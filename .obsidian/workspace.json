@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/PC Template.md",
+                "file": "Geminos/Aureliana/Nations/Calor.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/PC Template.md",
+                "file": "Geminos/Aureliana/Nations/Calor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/PC Template.md",
+                "file": "Geminos/Aureliana/Nations/Calor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/PC Template.md"
+                "file": "Geminos/Aureliana/Nations/Calor.md"
               }
             }
           },
@@ -181,15 +181,15 @@
   },
   "active": "f32c0d518f62b455",
   "lastOpenFiles": [
-    "Geminos/Aewin/Nations/Kiseret.md",
+    "Geminos/Aureliana/Nations/Batari.md",
+    "Geminos/Aewin/Aewin.md",
     "Geminos/Aewin/Places/Southern Spine.md",
-    "PCs/Celeste.md",
-    "Geminos/Aewin/Nations/Mentae.md",
-    "PCs/Bui.md",
     "Geminos/Aewin/Places/Elys.md",
-    "Juliae.md",
-    "The Lady's Code.md",
-    "Astaria.md",
-    "Auriae.md"
+    "Geminos/Aewin/Nations/Patkana.md",
+    "Geminos/Aewin/Nations/Mentae.md",
+    "Geminos/Aewin/Nations/Kiseret.md",
+    "Geminos/Aewin/Nations/Elysian League.md",
+    "Geminos/Aewin/Nations/Einhett.md",
+    "Geminos/Aewin/Nations/Castanar.md"
   ]
 }

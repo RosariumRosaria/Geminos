@@ -3,7 +3,7 @@ type: NPC
 Nation: []
 location: []
 world: Geminos
-description:""
+description: ""
 race: []
 age: []
 gender: []
