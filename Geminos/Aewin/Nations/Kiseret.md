@@ -14,7 +14,7 @@ description: "Kiseret is a constellation of minor fiefdoms and upstart princedom
 
 Kiseret is less of a singular state and more of a constellation of minor fiefdoms and upstart princedoms that nominally make up one polity. However, their supposed unity has never stopped them from quarreling and bickering.
 
-The Batkin of Kiseret have turned the uniquely massive stalactites of the [[ Southern Spine]] into their home. Palaces, estates, farms, and even cities all cling to the roof of those caverns. This has led to a unique culture and architectural style, with numerous innovations required for living on the cavern ceiling. From their hanging gardens to reverse spires, the lands of Kiseret host many a wonder.
+The Batkin of Kiseret have turned the uniquely massive stalactites of the [[Southern Spine]] into their home. Palaces, estates, farms, and even cities all cling to the roof of those caverns. This has led to a unique culture and architectural style, with numerous innovations required for living on the cavern ceiling. From their hanging gardens to reverse spires, the lands of Kiseret host many a wonder.
 
 The Princes of Kiseret are also well-known patrons of the arts. Their halls often have glittering gemstone mosaics, beautiful stone sculptures, and lush fungal gardens. In addition to physical works, they are renowned for their love of music. Their biological adaptation of echolocation lends them an enhanced sense of hearing. As such, the bards of Kiseret are well known for their legendary performances. They also are great suppliers of raw resources, with iron, copper, and gems all abundant in their cavernous homes. Both [[Castanar]] and the [[Mezari]] rely on Kiesreti resources to fuel their economies. 
 

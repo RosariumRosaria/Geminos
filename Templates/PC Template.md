@@ -1,9 +1,9 @@
 ---
 type: PC
-Nation: [Kiseret]
+Nation: []
 location: []
 world: Geminos
-description:""
+description: ""
 party: []
 player: []
 race: []
