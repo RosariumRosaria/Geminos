@@ -28,8 +28,6 @@ While the vertical distance stops the war from being more than a series of raids
 ---
 ## Details:
 - continent: [[Aewin]]
-- capital: [[]]
-- religion: [[]]
 
 ---
 

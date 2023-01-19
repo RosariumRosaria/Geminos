@@ -29,7 +29,6 @@ When the dust had settled, each prince sat upon the throne of their home kingdom
 ---
 ## Details:
 - continent: [[Aewin]]
-- capital: [[]]
 - religion: [[Old Faith]]
 
 ---

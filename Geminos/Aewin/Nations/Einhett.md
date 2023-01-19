@@ -25,8 +25,6 @@ Almost overnight, the marsh was transformed from a scattering of villages into a
 ---
 ## Details:
 - continent: [[Aewin]]
-- capital: [[]]
-- religion: [[]]
 
 ---
 

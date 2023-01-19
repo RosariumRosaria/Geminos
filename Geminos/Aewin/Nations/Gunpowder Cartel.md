@@ -25,8 +25,6 @@ The gilded halls of the Cartel honeycomb the mountain range they call home. They
 ---
 ## Details:
 - continent: [[Aewin]]
-- capital: [[]]
-- religion: [[]]
 
 ---
 

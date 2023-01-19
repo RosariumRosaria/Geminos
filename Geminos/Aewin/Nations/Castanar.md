@@ -25,7 +25,6 @@ With the old queen of Castanar dying heirless, the laws of succession called for
 ---
 ## Details:
 - continent: [[Aewin]]
-- capital: [[]]
 - religion: [[The Lady's Code]]
 
 ---

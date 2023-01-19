@@ -27,7 +27,6 @@ However, with Consul Astaria announcing her withdrawal from politics and steppin
 ---
 ## Details:
 - continent: [[Aewin]]
-- capital: [[]]
 - religion: [[Old Faith]]
 
 ---
