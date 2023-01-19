@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religions/Overview.md",
-                "mode": "source",
+                "file": "Geminos/Geminos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religions/Overview.md",
+                "file": "Geminos/Geminos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religions/Overview.md",
+                "file": "Geminos/Geminos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religions/Overview.md"
+                "file": "Geminos/Geminos.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "0f4da7be6d8e3812",
   "lastOpenFiles": [
+    "Religions/Overview.md",
     "Timeline.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -202,7 +203,6 @@
     "Geminos/Aureliana/Nations/Batari.md",
     "Geminos/Aewin/Aewin.md",
     "Geminos/Aewin/Places/Southern Spine.md",
-    "Geminos/Aewin/Places/Elys.md",
-    "Geminos/Aewin/Nations/Patkana.md"
+    "Geminos/Aewin/Places/Elys.md"
   ]
 }

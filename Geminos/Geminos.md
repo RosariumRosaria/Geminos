@@ -17,9 +17,13 @@ With a storied history stretching back into ancient fables of the [[Twin Goddess
 Recent years have heralded the start of a new era, with ancient kingdoms shaken to their foundations, long-running wars reaching new feverous heights, and new nations forged through fire, steel, and faith.
 
 ---
-## Details:
+## Maps:
 
+### Geography:
+![[Aewin and Aureliana.jpg]]
+### Political:
 
+![[Aewin and Aureliana Poltical Map.jpg]]
 ---
 
 
