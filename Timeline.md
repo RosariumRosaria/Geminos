@@ -35,16 +35,7 @@ When the dust had settled, each prince sat upon the throne of their home kingdom
 + Present Day
 ```
 
-Events:
-Ancient
 
-
-Middle:
-
-
-Modern
-
-Castanari Dynasty Dead
 
 
 
