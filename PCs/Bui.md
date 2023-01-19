@@ -3,7 +3,7 @@ type: PC
 Nation: []
 location: []
 world: Geminos
-description:""
+description: "test"
 party: []
 player: [Bui]
 race: [Human]

@@ -11,8 +11,12 @@
             "id": "f32c0d518f62b455",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geminos/Aewin/Nations/Mentae.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geminos/Aewin/Nations/Mentae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geminos/Aewin/Nations/Mentae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geminos/Aewin/Nations/Mentae.md"
+              }
             }
           },
           {
@@ -173,15 +181,15 @@
   },
   "active": "f32c0d518f62b455",
   "lastOpenFiles": [
+    "PCs/Bui.md",
+    "Geminos/Aewin/Places/Southern Spine.md",
+    "Geminos/Aewin/Nations/Kiseret.md",
+    "Geminos/Aewin/Places/Elys.md",
     "Juliae.md",
     "The Lady's Code.md",
     "Astaria.md",
     "Auriae.md",
     "Stenmur Gate.md",
-    "The Circle.md",
-    "Shattered Isles.md",
-    "Hartatti.md",
-    "Lady of the Lake.md",
-    "Geminos/Aewin/Nations/Kiseret.md"
+    "The Circle.md"
   ]
 }
