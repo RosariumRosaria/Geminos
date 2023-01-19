@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Aewin/Nations/Gunpowder Cartel.md",
+                "file": "Geminos/Ellanor/Ellanor.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geminos/Aewin/Nations/Gunpowder Cartel.md",
+                "file": "Geminos/Ellanor/Ellanor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geminos/Aewin/Nations/Gunpowder Cartel.md",
+                "file": "Geminos/Ellanor/Ellanor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geminos/Aewin/Nations/Gunpowder Cartel.md"
+                "file": "Geminos/Ellanor/Ellanor.md"
               }
             }
           },
@@ -181,15 +181,15 @@
   },
   "active": "f32c0d518f62b455",
   "lastOpenFiles": [
-    "Geminos/Aewin/Nations/Elysian League.md",
-    "Geminos/Aewin/Nations/Gunpowder Cartel.md",
-    "Geminos/Aewin/Nations/Elysia.md",
+    "Geminos/Ellanor/Beluir.md",
     "Geminos/Aewin/Nations/Arcus.md",
-    "Geminos/Aewin/Nations/Mentae.md",
-    "Geminos/Aewin/Aewin.md",
-    "Templates/Metadata.md",
-    "Templates/Deity Template.md",
-    "Religions/Concord Dawn/Concordia.md",
-    "Religions/Concord Dawn/Concord Dawn.md"
+    "Geminos/Aewin/Places/Southern Spine.md",
+    "Geminos/Aewin/Places/Elys.md",
+    "Geminos/Aewin/Nations/Mezari.md",
+    "Geminos/Aewin/Nations/Patkana.md",
+    "Geminos/Aewin/Nations/Gunpowder Cartel.md",
+    "Geminos/Aewin/Nations/Elysian League.md",
+    "Geminos/Aewin/Nations/Elysia.md",
+    "Geminos/Aewin/Nations/Mentae.md"
   ]
 }
