@@ -12,7 +12,7 @@ description: ""
 
 ## Description:
 
-Rising straight from the sea, Farran is unique. Lacking the shores and flat land of any other civilization, Farran consists of several towering stone pinnacles. Farran's people are also notable, entirely composed of winged species, primarily of Avian descent. 
+Rising straight from the sea, Farran is unique. Lacking the shores and flat land of any other civilization, Farran consists of a cluster of several towering stone pinnacles. Farran's people are also notable, entirely composed of winged species, primarily of Avian descent. 
 
 This has led to an equally unique way of life for the people of Farran, with their city honeycombing the mountainsides and awnings leaning out over the abyssal drop into the water. Only recently were stairs put up around the island to allow outsiders to live among them. 
 

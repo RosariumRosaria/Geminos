@@ -3,7 +3,7 @@ type: Nation
 world: Geminos
 continent: [Aewin]
 capital: []
-language: []
+language: [Elysian]
 species: [Dwarves, Humans]
 tags: [Nation, Eylsian]
 religion: []

@@ -3,7 +3,7 @@ type: Nation
 world: Geminos
 continent: [Aewin]
 capital: []
-language: []
+language: [Castnari]
 species: []
 tags: [Nation]
 religion: [The Lady's Code]

@@ -18,8 +18,6 @@ Vellig was long a province of [[Beluir]]. However, unlike many of the imperial f
 
 Vellig was blessed with huge reserves of gold, with Velligi mints providing the capital for much of the worlds nations. 
 
-Gnomish culture paragraph here
-
 ---
 ## Details:
 - continent: [[Ellanor]]

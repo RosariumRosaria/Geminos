@@ -1,4 +1,5 @@
-```dataview 
-TABLE religion 
-WHERE contains(type, "Nation") and contains(continent, "Aewin")
-```
+To Do:
+
+Languages
+Fill in placeholders
+FIll in ToDo

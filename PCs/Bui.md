@@ -1,6 +1,6 @@
 ---
 type: PC
-Nation: []
+Nation: [Arcus]
 location: []
 world: Geminos
 description: "test"

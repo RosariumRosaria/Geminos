@@ -25,9 +25,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Geminos.md",
-                "mode": "preview",
+                "file": "Geminos/Aewin/Aewin.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "93596105e4acf31a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Laura.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb6976f3492c4da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TBD/Astaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e488c1a5a0d86208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orders/Knights-Errant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57021ad03be4e3a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geminos/Ellanor/Nations/Vellig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf77f7790b6bf93",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pictures/Aewin.jpg"
               }
             }
           },
@@ -56,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geminos/Geminos.md",
+                "file": "Pictures/Aewin.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geminos/Geminos.md",
+                "file": "Pictures/Aewin.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geminos/Geminos.md"
+                "file": "Pictures/Aewin.jpg"
               }
             }
           },
@@ -192,17 +250,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0f4da7be6d8e3812",
+  "active": "4bf77f7790b6bf93",
   "lastOpenFiles": [
-    "Religions/Overview.md",
-    "Timeline.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Religions/Concord Dawn/Concordia.md",
-    "Geminos/Aureliana/Nations/Calor.md",
-    "Geminos/Aureliana/Nations/Batari.md",
-    "Geminos/Aewin/Aewin.md",
-    "Geminos/Aewin/Places/Southern Spine.md",
-    "Geminos/Aewin/Places/Elys.md"
+    "Pictures/Aureliana.jpg",
+    "Pictures/Ellanor.jpg",
+    "Pictures/Aewin.jpg",
+    "Pictures/Aewin and Aureliana Poltical Map.jpg",
+    "Geminos/Geminos.md",
+    "Pictures/Aewin and Aureliana (2).jpg",
+    "Pictures/Aewin and Aureliana.jpg",
+    "TBD/Auriae.md",
+    "TBD/Hartatti.md",
+    "TBD/Tarcza.md"
   ]
 }

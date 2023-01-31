@@ -3,8 +3,8 @@ type: Nation
 world: Geminos
 continent: [Aureliana]
 capital: []
-language: []
-species: [Human, Halfling, Dryad]
+language: [Castnari]
+species: [Human, Halfling, Dryad, Elf, Half-Elves, Eladrin]
 religion: []
 tags: [Nation]
 description: "Founded by a Knight-Errant of [[Castanar]] when an unexpected northern wind blew her ship far off course, Rosaria is an odd fusion of Castanari chivalry and the native Hafling knack for mercantilism. While an unlikely combination, it proved a fruitful one. "

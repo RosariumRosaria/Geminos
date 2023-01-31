@@ -12,7 +12,7 @@ description: ""
 
 ## Description:
 
-Beluir once ruled over nearly the entirety of Ellanor. The Empire planted its banner on almost every island of the sea and much of the coast. The Yuan-Ti that called it home once enjoyed all the fruits of the world's riches. Once.
+Beluir once ruled over nearly the entirety of [[Ellanor]]. The Empire planted its banner on almost every island of the sea and much of the coast. The Yuan-Ti that called it home once enjoyed all the fruits of the world's riches. Once.
 
 Before the collapse, Beluir was the center of all trade and wealth in Geminos, with ships patrolling every waterway, merchants plying every port, and soldiers extorting taxes upon a third of the population of all the land. 
 
@@ -24,7 +24,7 @@ The provinces have all broken away from the empire's grasp, with one now seeking
 
 ---
 ## Details:
-- continent: [[]]
+- continent: [[Beluir]]
 - religion: [[]]
 - capital: [[]]
 

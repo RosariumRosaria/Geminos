@@ -3,7 +3,7 @@ type: Nation
 world: Geminos
 continent: [Aewin]
 capital: [Elys]
-language: []
+language: [Elysian]
 species: []
 tags: [Nation, Eylsian]
 religion: [Old Faith]
