@@ -83,9 +83,23 @@
             "id": "4bf77f7790b6bf93",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pictures/Aewin.jpg"
+                "file": "TBD/Hub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91475b6a98f0af05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religions/Lys Auralis/Lys Auralis.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -114,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -180,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pictures/Aewin.jpg",
+                "file": "Religions/Lys Auralis/Lys Auralis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pictures/Aewin.jpg",
+                "file": "Religions/Lys Auralis/Lys Auralis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pictures/Aewin.jpg"
+                "file": "Religions/Lys Auralis/Lys Auralis.md"
               }
             }
           },
@@ -250,17 +264,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4bf77f7790b6bf93",
+  "active": "91475b6a98f0af05",
   "lastOpenFiles": [
-    "Pictures/Aureliana.jpg",
-    "Pictures/Ellanor.jpg",
-    "Pictures/Aewin.jpg",
-    "Pictures/Aewin and Aureliana Poltical Map.jpg",
-    "Geminos/Geminos.md",
-    "Pictures/Aewin and Aureliana (2).jpg",
-    "Pictures/Aewin and Aureliana.jpg",
-    "TBD/Auriae.md",
-    "TBD/Hartatti.md",
-    "TBD/Tarcza.md"
+    "Religions/Concord Dawn/Concord Dawn.md",
+    "Religions/Old Faith/Old Faith.md",
+    "Religions/Old Faith/Twin Goddesses.md",
+    "Religions/Lys Auralis/Lys Auralis.md",
+    "Geminos/Aureliana/Nations/Batari.md",
+    "Geminos/Aureliana/Nations/Calor.md",
+    "Religions/Concord Dawn/Concordia.md",
+    "PCs/Helia.md",
+    "TBD/Hub.md",
+    "Pictures/Aewin.jpg"
   ]
 }

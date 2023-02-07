@@ -26,11 +26,13 @@ The dangers of Obitarum has grown far greater in recent years, with the fall of 
 The Batari Conclave is divided between various claimaints, along with a hard-line conserative faction attempting to maintain the status quo. This tension has splintered the Batari, with each group staunchly opposing any compromise. 
 
 
+
+
 ---
 ## Details:
 - continent: [[Aureliana]]
 - capital: [[]]
-- religion: [[]]
+- religion: [[Lys Auralis]]
 
 ---
 
