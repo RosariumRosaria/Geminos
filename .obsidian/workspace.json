@@ -8,127 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f32c0d518f62b455",
+            "id": "3f4f58f0252cdcf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "TBD/Session One Party Two.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0f4da7be6d8e3812",
+            "id": "c01bab98cc862220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Aewin/Aewin.md",
+                "file": "NPCs/Yennefer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93596105e4acf31a",
+            "id": "0506b553b59d935f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Laura.md",
+                "file": "Resources/Session Notes/Party One/Session One.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "eb6976f3492c4da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TBD/Astaria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e488c1a5a0d86208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orders/Knights-Errant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57021ad03be4e3a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geminos/Ellanor/Nations/Vellig.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bf77f7790b6bf93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TBD/Hub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91475b6a98f0af05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Religions/Lys Auralis/Lys Auralis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85e7762cabddf54c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f61078e5ff10ce92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d8a45f587d50d6cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religions/Lys Auralis/Lys Auralis.md",
+                "file": "Resources/Session Notes/Party One/Session One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Religions/Lys Auralis/Lys Auralis.md",
+                "file": "Resources/Session Notes/Party One/Session One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Religions/Lys Auralis/Lys Auralis.md"
+                "file": "Resources/Session Notes/Party One/Session One.md"
               }
             }
           },
@@ -264,17 +180,44 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "91475b6a98f0af05",
+  "active": "0506b553b59d935f",
   "lastOpenFiles": [
-    "Religions/Concord Dawn/Concord Dawn.md",
-    "Religions/Old Faith/Old Faith.md",
-    "Religions/Old Faith/Twin Goddesses.md",
-    "Religions/Lys Auralis/Lys Auralis.md",
-    "Geminos/Aureliana/Nations/Batari.md",
-    "Geminos/Aureliana/Nations/Calor.md",
-    "Religions/Concord Dawn/Concordia.md",
+    "TBD/Wastrel.md",
+    "Resources/Session Notes/Party One/Session One.md",
+    "NPCs/Annica/Delpha Komae.md",
+    "NPCs/Annica/Demos Tolellis.md",
+    "NPCs/Annica/Nasos Stamalli.md",
+    "TBD/Session One Party Two.md",
+    "PCs/Callahan Albiron.md",
+    "PCs/Iris.md",
+    "PCs/Morgana.md",
+    "PCs/Jack.md",
     "PCs/Helia.md",
+    "NPCs/Yennefer.md",
+    "Geminos/Aewin/Places/Annica.md",
+    "Geminos/Aewin/Places/Elys.md",
+    "Czyik.md",
+    "Religions/Arzyl/Orvoss.md",
+    "Religions/Arzyl",
+    "NPCs/Victoria.md",
+    "TBD/Shattered Isles.md",
+    "NPCs/Annica/Retalis.md",
     "TBD/Hub.md",
-    "Pictures/Aewin.jpg"
+    "Resources/Songs.md",
+    "Religions/Old Faith/Theama.md",
+    "Religions/Old Faith/Twin Goddesses.md",
+    "Pictures/Delphapng.png",
+    "NPCs/Annica/Stefanos Harra.md",
+    "NPCs/Annica/Marietta Harra.md",
+    "NPCs/Annica/Dimitris Rokas.md",
+    "Resources/Session Notes/Party One",
+    "Resources/Session Notes",
+    "Pictures/Aewin and Aureliana Poltical Map.jpg",
+    "Teut_Backup.eu4",
+    "Teut.eu4",
+    "Pictures/Katarina Zenili Art.jpg",
+    "Pictures/Aewin.jpg",
+    "Pictures/Aureliana.jpg",
+    "Pictures/Aewin and Aureliana.jpg"
   ]
 }

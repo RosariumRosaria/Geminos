@@ -18,7 +18,7 @@ The humans and elves who populate the island have been twisted by it, with their
 
 Unlike Virdia, Nylus holds a unified state, with a single great city serving as its capital. Rather than being ruled by a monarch or democracy, Nylus is governed by competing bloodlines of shade-sorcerers, necromancers, and psychic exemplars competing, with the fittest taking higher positions in the conclave.
 
-Once, the empire of [[Beluir]] held Nylus as a colony, enforcing a strict military rule. Stories still speak of the strangly bloodless conquest of the island, with the leading heirachs of Nylus agreeing to annexation without a fight. The emperor of [[Belluir]] was well known for their Nylan courtiers, serving as spies to peer into thoughts or guardians against unnatural attacks. After the fall, Nylus quickly established herself, seizing the land north of [[Vellig]] as her own, although the purposes of which have yet to be discovered. 
+Once, the empire of [[Beluir]] held Nylus as a colony, enforcing a strict military rule. Stories still speak of the strangly bloodless conquest of the island, with the leading heirachs of Nylus agreeing to annexation without a fight. The emperor of [[Beluir]] was well known for their Nylan courtiers, serving as spies to peer into thoughts or guardians against unnatural attacks. After the fall, Nylus quickly established herself, seizing the land north of [[Vellig]] as her own, although the purposes of which have yet to be discovered. 
 
 ---
 ## Details:

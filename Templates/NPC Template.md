@@ -12,6 +12,9 @@ class: []
 
 ## Description:
 
+
+## Visual Description:
+
 ---
 ## Details:
 - Home: [[]]
