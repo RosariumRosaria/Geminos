@@ -17,7 +17,7 @@ Once a simple peasant girl, a vision from a new goddess named [[Concordia]] sent
 
 While at first her followers were a collection of a ragtag collection of peasant converts and a few minor lords they soon blossomed into a proper state. Then, Victoria began to receive visions from Concordia, which detailed how her flock should organize themselves. These rules and strictures formed the bedrock of what would become Sanctus' law code.
 
-The newly founded nation of Sanctus has quickly begun to prosper. The saints and priests of Concordia are gifted with healing and curing the diseases and plagues that used to ravage the landscape. As such, a booming population has led to new towns and cities sprouting across the land.
+The newly founded nation of Sanctus has quickly begun to prosper. The saints and priests of Concordia are gifted with healing and curing the diseases and plagues that used to ravage the landscape. As such, a booming population has led to new towns and cities sprouting across the land. Sanctus' has also proved a safe haven for the peoples of the world who are shunned by the the other faiths. Tieflings and shapeshifters in particular have flocked to Sanctus', as many religions view them as demons, devils, or otherwise revile them. 
 
 Each town is founded around a central church, where a local clergy member might dispense healing and guidance. In addition, the cities boast massive cathedral complexes that contain hospitals and prayer halls, and the greatest ones even house the Living Saints themselves.
 

@@ -9,7 +9,7 @@ description: ""
 
 ## Description:
 
-A small lakeside town in the [[Elsian League]]. Not terribley notable beyond being the birthplace of [[Katerina Zenili]], a famous archaeologist.
+A small lakeside town in the [[Elysian League]]. Not terribley notable beyond being the birthplace of [[Katerina Zenili]], a famous archaeologist.
 
 ---
 

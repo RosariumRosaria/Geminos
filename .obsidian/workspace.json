@@ -13,38 +13,94 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TBD/Session One Party Two.md",
+                "file": "TBD/Hartatti.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c01bab98cc862220",
+            "id": "45fc9930524094a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Yennefer.md",
+                "file": "Geminos/Aureliana/Nations/Atla.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0506b553b59d935f",
+            "id": "602cdb35b3765c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Session Notes/Party One/Session One.md",
+                "file": "NPCs/Helia/Ellie BirdWatchChild BirdTamer Delarienne.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2af59f4d47d7a57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Helia/Michelle Tenou.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02aeeb0f6a7aa6a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Annica/Retalis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f458046ca735b63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Helia/Selina Storm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45dded135a2fffea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Helia/Gordon Colt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73dce522b0453ddd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Session Notes/Party One/Session One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Session Notes/Party One/Session One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resources/Session Notes/Party One/Session One.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,41 +232,47 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0506b553b59d935f",
+  "active": "73dce522b0453ddd",
   "lastOpenFiles": [
-    "TBD/Wastrel.md",
-    "Resources/Session Notes/Party One/Session One.md",
-    "NPCs/Annica/Delpha Komae.md",
-    "NPCs/Annica/Demos Tolellis.md",
-    "NPCs/Annica/Nasos Stamalli.md",
-    "TBD/Session One Party Two.md",
-    "PCs/Callahan Albiron.md",
-    "PCs/Iris.md",
-    "PCs/Morgana.md",
-    "PCs/Jack.md",
-    "PCs/Helia.md",
-    "NPCs/Yennefer.md",
-    "Geminos/Aewin/Places/Annica.md",
-    "Geminos/Aewin/Places/Elys.md",
-    "Czyik.md",
-    "Religions/Arzyl/Orvoss.md",
-    "Religions/Arzyl",
-    "NPCs/Victoria.md",
-    "TBD/Shattered Isles.md",
+    "NPCs/Helia/Taori Maizan.md",
+    "NPCs/Helia/Gordon Colt.md",
+    "NPCs/Helia/Ellie BirdWatchChild BirdTamer Delarienne.md",
+    "NPCs/Helia/Haru Kairon.md",
+    "NPCs/Helia/Selina Storm.md",
+    "NPCs/Helia/Michelle Tenou.md",
     "NPCs/Annica/Retalis.md",
+    "NPCs/Helia/Untitled",
+    "Geminos/Aureliana/Nations/Atla.md",
+    "NPCs/Helia",
+    "Geminos/Aureliana/Nations/Sanctus.md",
+    "TBD/Hartatti.md",
     "TBD/Hub.md",
+    "Geminos/Aureliana/Places/Stenmur Gate.md",
+    "Geminos/Aewin/Places/Elys.md",
+    "Geminos/Aewin/Places/Southern Spine.md",
+    "TBD/Lady of the Lake.md",
+    "TBD/Juliae.md",
+    "TBD/Auriae.md",
+    "TBD/Astaria.md",
+    "NPCs/Skala/Katona Skala.md",
+    "NPCs/Morgana/Yennefer.md",
+    "TBD/Wastrel.md",
+    "Resources/Session Notes/Party One/Session Two.md",
+    "Resources/Session Notes/Party One/Session One.md",
     "Resources/Songs.md",
-    "Religions/Old Faith/Theama.md",
-    "Religions/Old Faith/Twin Goddesses.md",
+    "Pictures/11edb28540785191f640c2d8f99ca560.jpg",
+    "NPCs/Morgana",
+    "NPCs/Skala",
+    "Sessions/Party One/Session One.md",
+    "PCs/Iris.md",
+    "Sessions/Party One",
+    "Sessions",
+    "Religions/Arzyl",
     "Pictures/Delphapng.png",
-    "NPCs/Annica/Stefanos Harra.md",
-    "NPCs/Annica/Marietta Harra.md",
-    "NPCs/Annica/Dimitris Rokas.md",
     "Resources/Session Notes/Party One",
     "Resources/Session Notes",
     "Pictures/Aewin and Aureliana Poltical Map.jpg",
     "Teut_Backup.eu4",
-    "Teut.eu4",
     "Pictures/Katarina Zenili Art.jpg",
     "Pictures/Aewin.jpg",
     "Pictures/Aureliana.jpg",
