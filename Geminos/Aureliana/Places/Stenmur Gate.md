@@ -13,9 +13,6 @@ The Stenmur Gate was a massive stone wall erected by ancient Dwarven rune smiths
 
 In recent years the gate has been broken through unknown means, which granted the dead of Obitarum access to both the lands of the Northern Spine, and to [[Batari]].
 
-
-
-
 ---
 
 ## Visual Description:

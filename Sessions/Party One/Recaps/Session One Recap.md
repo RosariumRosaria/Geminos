@@ -5,7 +5,6 @@ campaign: "Primus"
 date: 2023-03-10
 game_date: 1-2
 location: Annica
-number: 1
 characters: []
 tags: [session]
 ---
@@ -17,45 +16,10 @@ After retrieving [[Stefanos Harra]]'s boat from the clutches of a overgrown craw
 
 There the Morgana had a prickly talk with [[Katerina Zenili]], while Rhamnus talked to the priestess [[Delpha Komae]]. Meanwhile Troubleshooter interacted with a memeber of the local underground.
 
-They recieved information on a local criminal [[Retalis]] who was holed up in an imperial library. 
+They recieved information on a local criminal [[Retalis]] who was holed up in an imperial library. He both had a bounty on his head, which interested Rhamnus and Troubleshooter, and information regarding a Kiserti artifact that batkin.
 
----
+## Players:
 
-## Housekeeping
-
-
-
-## Recap
-
-
-## Strong start
-
-> 
-
-## Scenes
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-	
-## Secrets and Clues
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-## Loot
-
-- [ ] 
-
----
-
-## Log
+- [[Rhamnus]]
+- [[Morgana]]
+- [[Troubleshooter]]

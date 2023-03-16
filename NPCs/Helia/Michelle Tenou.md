@@ -18,7 +18,7 @@ Michelle is a flirtatious person and has been known to make Helia blush on sever
 
 While Michelle takes her tasks seriously, she doesn't always follow orders if she believes there is a better, more unorthodox way to achieve the same result. She values honesty above all else and has a deep trust in Helia due to her brutal honesty.
 
-Michelle is currently in a relationship with Haru. As a Cleric and Bard, Michelle uses her musical talents to inspire and heal others, spreading the teachings of Concordia wherever she goes.
+Michelle is currently in a relationship with [[Haru Kairon]]. As a Cleric and Bard, Michelle uses her musical talents to inspire and heal others, spreading the teachings of [[Concordia]] wherever she goes.
 
 ## Visual Description:
 

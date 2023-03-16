@@ -12,7 +12,7 @@ class: []
 
 ## Description:
 
-The attendant to [[Morgana]], Yennefer has provided her dutiful service ever since the death of her mother. 
+The attendant to [[Morgana]], Yennefer has provided her dutiful service ever since the death of her mother, died defending Morgana from insurgents. Following the death of her mother Yennefer was hand picked by Morgana.
 
 
 ## Visual Description:
@@ -20,7 +20,7 @@ The attendant to [[Morgana]], Yennefer has provided her dutiful service ever sin
 ---
 ## Details:
 - Home: [[]]
-- Nation: [[]]
+- Nation: [[Kisert]]
 
 ---
 
