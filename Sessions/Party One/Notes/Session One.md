@@ -10,7 +10,7 @@ tags: [session]
 ---
 
 ## Session Summary:
-The players all introduced themselves, meeting on a small road leading to [[Annica]]. [[Morgana]] and [[Yennefer]] arrivied via a stagecoach, while [[Troubleshooter]] and [[Rhamnus]] were walking.
+The players all introduced themselves, meeting on a small road leading to [[Annica]]. [[Morgana]] and [[Yennefer]] arrivied via a stagecoach, while [[Nico]] and [[Rhamnus]] were walking.
 
 After retrieving [[Stefanos Harra]]'s boat from the clutches of a overgrown crawfish the party finally arrivied in Annica.
 

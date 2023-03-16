@@ -13,8 +13,6 @@ tags: [session]
 
 ## Session Summary:
 
-![[Session One Recap#Session Summary:]]
-
 ---
 
 ## Housekeeping
@@ -32,8 +30,6 @@ Make sure everyone long rested
 >As the morning sun rises over Annica, you all gather in the inn to discuss your next move. The information you gathered about the fugitive Retalis has led you to a renovated ancient library located past  the outskirts of the town. The library is currently being used by a group of local bandits who have been stolen valuable artifacts from Katerina.
 >
 >Retalis, is believed to be holed up inside the library with his stolen goods. The librarian who runs the place is also missing. 
->
->
 ## Scenes
 
 - [ ] Venturing out there

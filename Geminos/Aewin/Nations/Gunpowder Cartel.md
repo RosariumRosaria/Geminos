@@ -12,7 +12,7 @@ description: ""
 
 ## Description:
 
-One of the only Dwarvish states in [[Aewin]], the semi-unified clans of the Gunpowder Cartel maintain a stranglehold on their namesake, gunpowder. They are the sole provider of gunpowder in all of Aewin, with the armies of all Elysia, Mentae, Arcus, and numerous others relying on them to fuel their weapons.
+One of the only Dwarvish states in [[Aewin]], the semi-unified clans of the Gunpowder Cartel maintain a stranglehold on their namesake, gunpowder. They are the sole provider of gunpowder in all of Aewin, with the armies of all Elysia, Mentae, [[Arcus]], and numerous others relying on them to fuel their weapons.
 
 The Dwarves arrived in Aewin after being invited by a particularly ambitious [[Elysia|Elysian]] emperor. They quickly settled into the mountains. They began life as a small outpost of only a few hundred dwarves, with successive waves of would-be colonizers coming after hearing tales of immense wealth and new land. 
 
