@@ -12,7 +12,7 @@ class: []
 
 ## Description:
 
-Born to a goliath grandmother and a human father, she is considered small by the goliath majority in The Village™️. Despite her size, she has always been fascinated by birds and has become skilled at training them for a variety of tasks, such as hunting and carrying messages.
+Born to a goliath grandmother and a human father, she is considered small by the goliath majority in The Village™️. Despite her size being above average for a human, she's considered small by most of her goliath peers. She has always been fascinated by birds and has become skilled at training them for a variety of tasks, such as hunting and carrying messages.
 
 As a child, Ellie suffered a leg injury that left her unable to walk for a while. Although she has since recovered, she still experiences discomfort and relies on a cane or walker to get around. This physical limitation has not stopped her from pursuing her passion for bird training and her desire to find a way to fly.
 

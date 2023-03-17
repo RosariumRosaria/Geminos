@@ -20,7 +20,7 @@ The attendant to [[Morgana]], Yennefer has provided her dutiful service ever sin
 ---
 ## Details:
 - Home: [[]]
-- Nation: [[Kisert]]
+- Nation: [[Kiseret]]
 
 ---
 

@@ -11,7 +11,7 @@ class: []
 ---
 
 ## Description:
-She has a tough exterior and a soft heart. They love listening to [[Michelle Tenou]] play the violin and spending time with kids, often telling them stories. Haru is incredibly fast on foot and on horseback, and loves to race. They tend to show physical affection in a playful, even violent way.
+She has a tough exterior and a soft heart. They love listening to [[Michelle Tenou]] play the violin and spending time with kids, often telling them stories. Haru is incredibly fast on foot and on horseback, and loves to race. They tend to show physical affection in a playfully violent way.
 
 Despite their tough exterior, Haru has a strong love for dogs and is passionate about technical drawings and architecture. They were also one of Selina's favorite students. Haru has gone on multiple missions with Michelle.
 

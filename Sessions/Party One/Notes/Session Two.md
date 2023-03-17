@@ -37,7 +37,7 @@ Make sure everyone long rested
 - [ ] Entering the warehouse
 - [ ] Rescuing the librarian
 - [ ] Investigating the map room
-- [ ] FIghting retalis
+- [ ] Fighting retalis
 - [ ] Investigating the portal room
 - [ ] Investigating the dining room
 - [ ] Return to Katerina
