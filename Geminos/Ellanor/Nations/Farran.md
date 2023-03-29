@@ -28,7 +28,7 @@ Today Farran controls half of Beluir and is engaged in a rapid arms race with th
 
 ---
 ## Details:
-- continent: [[]]
+- continent: [[Ellanor]]
 - religion: [[]]
 - capital: [[]]
 

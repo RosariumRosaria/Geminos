@@ -4,36 +4,35 @@
 type: session
 world: Geminos
 campaign: "Primus"
-date: 2023-03-16
+date: 2023-03-25
 game_date: 
 location: 
-characters: [Morgana Yennefer Rhamnus Troubleshooter]
+characters: [Morgana Yennefer Rhamnus Nico]
 tags: [session]
+party: 1
 ---
 
 ## Session Summary:
+
+
 
 ---
 
 ## Housekeeping
 
-Make sure everyone leveled up
 
-Make sure everyone long rested
 
 ## Recap
 
-![[Session One Recap#Session Summary:]]
+![[Session 2 Party One#Session Summary:]]
 
 ## Strong start
 
->As the morning sun rises over Annica, you all gather in the inn to discuss your next move. The information you gathered about the fugitive Retalis has led you to a renovated ancient library located past  the outskirts of the town. The library is currently being used by a group of local bandits who have been stolen valuable artifacts from Katerina.
->
->Retalis, is believed to be holed up inside the library with his stolen goods. The librarian who runs the place is also missing. 
+>You stand in the middle of a hallway in the old library, hearing muttered and quiet moving as you progress through its halls. The four of you shuffle quietly along, hoping to not get noticed.  As Nico ties the last of the doors together, preventing them from being opened, you make your way onward.
 ## Scenes
 
-- [ ] Venturing out there
-- [ ] Arriving at the library
+- [x] Venturing out there
+- [x] Arriving at the library
 - [ ] Entering the warehouse
 - [ ] Rescuing the librarian
 - [ ] Investigating the map room
@@ -42,7 +41,7 @@ Make sure everyone long rested
 - [ ] Investigating the dining room
 - [ ] Return to Katerina
 - [ ] Claiming the bounty
-	
+
 ## Secrets and Clues
 
 - [ ] Seems this room was an exhibit on batkin sites
@@ -51,8 +50,8 @@ Make sure everyone long rested
 - [ ] Locked up caretaker
 - [ ] Leads to a tomb in the nearby mountains (Batkin ancient homeland)
 - [ ] Need blood of a batkin noble
-- [ ] Bandits have a strange brand
-- [ ] 
+- [x] Bandits have a strange brand of batkin 
+- [x] Brainwashing
 
 ## Loot
 

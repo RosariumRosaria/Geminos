@@ -7,6 +7,7 @@ game_date:
 location: 
 characters: []
 tags: [session]
+party:
 ---
 
 ## Session Summary:

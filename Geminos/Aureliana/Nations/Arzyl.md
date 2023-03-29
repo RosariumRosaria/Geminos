@@ -22,7 +22,7 @@ The Arzyli are industrious, with their craftsmanship and smithing being desired 
 
 Despite its internal issues (or perhaps because of them), Arzyl is immensely loved by its neighbors. It engages in intimate and profitable trade with much of the world. In particular, wine and food from [[Rosaria]] flow into Arzyl in exchange for metal and the unique fertilizer only found in Arzyl. Arzyli mercenaries also often serve in the armies of other nations. 
 
-The greatest of all those companies is the emperor's own Cerna Guard. The sight of the Cernan black armor arrayed on the battlefield has caused more than one army to rout without a fight. The official imperial policy is to rent them out to allies, offering special rates if deployed against enemies. 
+The greatest of all those companies is the emperor's own [[Cerna Guard]]. The sight of the Cernan black armor arrayed on the battlefield has caused more than one army to rout without a fight. The official imperial policy is to rent them out to allies, offering special rates if deployed against enemies. 
 
 Nearly the entirety of the guard, every company saves the first that protects the emperor, was recently deployed after the [[Sanctus]]-[[Tarcza]] war. This was remarkable on its own but far more so given that they did not accept payment for their work. Instead, the emperor provided their services as a gift to keep Tarcza standing and serve as a buffer state between Arzyl and Sanctus.
 

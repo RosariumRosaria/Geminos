@@ -7,6 +7,7 @@ game_date: 1-2
 location: Annica
 characters: [Rhamnus, Troubleshooter, Morgana]
 tags: [session]
+party: one
 ---
 
 ## Session Summary:
@@ -21,18 +22,6 @@ They recieved information on a local criminal [[Retalis]] who was holed up in an
 
 
 ---
-
-## Housekeeping
-
-
-
-## Recap
-
-[[Session One Recap]]
-
-## Strong start
-
-> 
 
 ## Scenes
 

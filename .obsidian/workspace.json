@@ -11,40 +11,83 @@
             "id": "516bf1b3a0184006",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cf5e52fe90bbcaa",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session Template.md",
+                "file": "Geminos/Aureliana/Places/Skala (City).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3dba74698df8a794",
+            "id": "4683a0f285be6e59",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a70b1aab50ec7d38",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "47045103f53cc70a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Aewin/Aewin.md",
+                "file": "TBD/Timeline.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe36d2997dbedd45",
+            "id": "e76c968da82958e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Helia/Michelle Tenou.md",
+                "file": "Geminos/Timeline of Historical Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f2f340c8dcf7ff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Morgana/Lestat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -73,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Isander",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Helia/Michelle Tenou.md",
+                "file": "Geminos/Timeline of Historical Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Helia/Michelle Tenou.md",
+                "file": "Geminos/Timeline of Historical Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Helia/Michelle Tenou.md"
+                "file": "Geminos/Timeline of Historical Events.md"
               }
             }
           },
@@ -180,35 +223,39 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "fe36d2997dbedd45",
+  "active": "e76c968da82958e8",
   "lastOpenFiles": [
-    "Geminos/Aureliana/Nations/Atla.md",
-    "Sessions/Party One/Notes/Session Two.md",
-    "NPCs/Helia/Gordon Colt.md",
-    "NPCs/Helia/Haru Kairon.md",
-    "NPCs/Helia/Michelle Tenou.md",
-    "NPCs/Helia/Taori Maizan.md",
-    "NPCs/Helia/Ellie BirdWatchChild BirdTamer Delarienne.md",
-    "NPCs/Claude/Untitled.md",
-    "NPCs/Morgana/Yennefer.md",
-    "Skala.md",
-    "NPCs/Skala/Katona Skala.md",
+    "Geminos/Aureliana/Places/Skala (City).md",
+    "Geminos/Timeline of Historical Events.md",
+    "Geminos/Aureliana/Nations/Sanctus.md",
+    "Geminos/Geminos.md",
+    "Geminos/Aureliana/Nations/Obitarum.md",
+    "Geminos/Aureliana/Nations/Rosaria.md",
+    "NPCs/Victoria.md",
+    "Geminos/Aewin/Nations/Mentae.md",
+    "Geminos/Aureliana/Places/Stenmur Gate.md",
+    "Geminos/Ellanor/Nations/Beluir.md",
+    "Geminos/Ellanor/Nations/Vellig.md",
+    "Geminos/Ellanor/Nations/Farran.md",
     "TBD/Timeline.md",
-    "Geminos/Aewin/Aewin.md",
-    "NPCs/Claude",
-    "Geminos/Aewin/Nations/Brevi.md",
-    "Geminos/Aewin/Nations/Elysia.md",
-    "Geminos/Aewin/Nations/Einhett.md",
-    "Geminos/Aewin/Nations/Kiseret.md",
     "Geminos/Aewin/Nations/Elysian League.md",
-    "Geminos/Aewin/Nations/Castanar.md",
-    "Geminos/Aewin/Nations/Arcus.md",
-    "PCs/Iris Silvertail.md",
-    "PCs/Morgana.md",
+    "Geminos/Aewin/Nations/Einhett.md",
+    "Stratocracy.md",
+    "TBD/Languges.md",
     "PCs/Nico.md",
-    "Sessions/Party One/Notes/Session One.md",
-    "TBD/Wastrel.md",
-    "TBD/Lady of the Lake.md",
+    "PCs/Morgana.md",
+    "NPCs/Morgana/Carmilla.md",
+    "NPCs/Morgana/Lestat.md",
+    "NPCs/Morgana/Tissasia.md",
+    "NPCs/Morgana/Yennefer.md",
+    "Orders/Penitent.md",
+    "Religions/Castanar/Lady of the Lake.md",
+    "Religions/Castanar/The Lady's Code.md",
+    "Religions/Castanar",
+    "Untitled.canvas",
+    "Pictures/Torok Art.png",
+    "Items",
+    "NPCs/Claude",
     "Sessions/Party One/Notes",
     "Sessions/Party One/Recaps",
     "NPCs/Helia/Untitled",
@@ -217,8 +264,6 @@
     "NPCs/Morgana",
     "NPCs/Skala",
     "Sessions/Party One",
-    "Sessions",
-    "Religions/Arzyl",
     "Pictures/Delphapng.png",
     "Pictures/Aewin and Aureliana Poltical Map.jpg",
     "Pictures/Katarina Zenili Art.jpg",

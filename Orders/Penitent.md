@@ -1,0 +1,1 @@
+Some kind of oath that harms them till they complete it
