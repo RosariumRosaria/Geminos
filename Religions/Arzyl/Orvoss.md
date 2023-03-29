@@ -6,7 +6,7 @@ gender: []
 
 ## Description:
 
-Arzyli godess of medicine.
+Orvoss is the goddess of medicine in the pantheon of [[Arzyl]]
 
 
 ---
