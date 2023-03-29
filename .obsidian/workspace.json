@@ -11,8 +11,12 @@
             "id": "516bf1b3a0184006",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TBD/Timeline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -26,68 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4683a0f285be6e59",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a70b1aab50ec7d38",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "47045103f53cc70a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TBD/Timeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e76c968da82958e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geminos/Timeline of Historical Events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f2f340c8dcf7ff9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Morgana/Lestat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geminos/Timeline of Historical Events.md",
+                "file": "TBD/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geminos/Timeline of Historical Events.md",
+                "file": "TBD/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geminos/Timeline of Historical Events.md"
+                "file": "TBD/Timeline.md"
               }
             }
           },
@@ -223,10 +167,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e76c968da82958e8",
+  "active": "516bf1b3a0184006",
   "lastOpenFiles": [
-    "Geminos/Aureliana/Places/Skala (City).md",
+    "TBD/Thassos.md",
+    "2023-03-28.md",
+    "Untitled.canvas",
+    "Stratocracy.md",
+    "Geminos/Aewin/Places/Sunken Sands.md",
+    "Geminos/Aewin/Nations/Mezari.md",
     "Geminos/Timeline of Historical Events.md",
+    "Geminos/Aureliana/Places/Skala (City).md",
     "Geminos/Aureliana/Nations/Sanctus.md",
     "Geminos/Geminos.md",
     "Geminos/Aureliana/Nations/Obitarum.md",
@@ -240,19 +190,13 @@
     "TBD/Timeline.md",
     "Geminos/Aewin/Nations/Elysian League.md",
     "Geminos/Aewin/Nations/Einhett.md",
-    "Stratocracy.md",
     "TBD/Languges.md",
     "PCs/Nico.md",
     "PCs/Morgana.md",
     "NPCs/Morgana/Carmilla.md",
     "NPCs/Morgana/Lestat.md",
     "NPCs/Morgana/Tissasia.md",
-    "NPCs/Morgana/Yennefer.md",
-    "Orders/Penitent.md",
-    "Religions/Castanar/Lady of the Lake.md",
-    "Religions/Castanar/The Lady's Code.md",
     "Religions/Castanar",
-    "Untitled.canvas",
     "Pictures/Torok Art.png",
     "Items",
     "NPCs/Claude",

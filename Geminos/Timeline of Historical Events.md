@@ -14,6 +14,6 @@ Please do note, I have a small brain. If you see something wrong or contradictor
 -  In 1602, [[Victoria]] completes her pilgrimage, and eventually creates the Holy State of [[Sanctus]]
 -  In 1604, the hordes of [[Obitarum]] surge forth, possessed by an unnatural intelligence. A joint effort by [[Batari]] and the [[Rose Guard]] is launched to defend the [[Stenmur Gate]]. With much life lost, after 10 years it fails.
 -  In 1614, the fall of the gate is a rallying cry, with the [[Cerna Guard]] being sent to join the effort. Together after 7 brutal years they manage to weaken the undead, with the remaining  hordes being isolated and disunited. Fighting continues in southern Batari, and the gate remains broken. 
-- In 1624, Clan [[Iszap]] rebels,
+- In 1624, Clan [[Iszap]] rebels against [[Arzyl]] sparking a brutal civil war that rages for years. (How long exactly?)
 -  In 1629, [[Astaria]] steps down from her position as Consul, fearing that the nation she forged would become too reliant on her.
 -   Our story begins in 1634.
