@@ -11,9 +11,25 @@
             "id": "516bf1b3a0184006",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ae15efc001bd6b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c19a5c2b4b60505",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Aureliana/Nations/Arzyl.md",
+                "file": "Geminos/Aureliana/Nations/Paktt Skydda.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geminos/Aureliana/Nations/Arzyl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geminos/Aureliana/Nations/Arzyl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geminos/Aureliana/Nations/Arzyl.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,34 +180,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "516bf1b3a0184006",
+  "active": "8ae15efc001bd6b3",
   "lastOpenFiles": [
-    "Religions/Arzyl/Orvoss.md",
+    "Geminos/Aureliana/Nations/Atla.md",
+    "NPCs/Helia/Gordon Colt.md",
+    "Geminos/Aewin/Nations/Elysia.md",
+    "Halla Skydda.md",
     "Geminos/Timeline of Historical Events.md",
+    "Sessions/Party One/Notes/Session 2 Party One.md",
+    "Favouna.md",
+    "Geminos/Aureliana/Places/Batarialli Favounir.md",
+    "Geminos/Aureliana/Nations/Paktt Skydda.md",
+    "Geminos/Aureliana/Nations/Batari.md",
+    "PCs/Helia.md",
+    "TBD/Timeline.md",
+    "Geminos/Aureliana/Places/Stenmur Gate.md",
+    "NPCs/Victoria.md",
+    "Geminos/Aureliana/Nations/Arzyl.md",
+    "Religions/Arzyl/Orvoss.md",
     "Geminos/Ellanor/Nations/Farran.md",
     "Geminos/Ellanor/Nations/Beluir.md",
-    "Geminos/Aureliana/Places/Stenmur Gate.md",
     "Geminos/Aureliana/Places/Skala (City).md",
     "Geminos/Aureliana/Places/Northern Spine.md",
     "Geminos/Aureliana/Nations/Sanctus.md",
     "Geminos/Aureliana/Nations/Rosaria.md",
     "Geminos/Aureliana/Nations/Obitarum.md",
     "Geminos/Aureliana/Nations/Calor.md",
-    "Geminos/Aureliana/Nations/Batari.md",
-    "Geminos/Aureliana/Nations/Arzyl.md",
     "Geminos/Aewin/Places/Wastrel.md",
     "Geminos/Aewin/Aewin.md",
-    "Geminos/Aewin/Places/The Circle.md",
-    "Geminos/Aewin/Places/Sunken Sands.md",
-    "Geminos/Aewin/Places/Southern Spine.md",
-    "Geminos/Aewin/Places/Annica.md",
-    "Geminos/Aewin/Nations/Patkana.md",
-    "Geminos/Aewin/Nations/Mezari.md",
-    "Geminos/Aewin/Nations/Mentae.md",
-    "Geminos/Aewin/Nations/Kiseret.md",
-    "Geminos/Aewin/Nations/Gunpowder Cartel.md",
-    "Geminos/Aewin/Nations/Elysian League.md",
-    "Geminos/Aewin/Nations/Elysia.md",
     "Untitled.canvas",
     "Religions/Castanar",
     "Pictures/Torok Art.png",
