@@ -8,47 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "516bf1b3a0184006",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ae15efc001bd6b3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "3c19a5c2b4b60505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Aureliana/Nations/Paktt Skydda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cf5e52fe90bbcaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geminos/Aureliana/Places/Skala (City).md",
-                "mode": "source",
+                "file": "Geminos/Geminos.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Isander",
+                "query": "Kirlay",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geminos/Geminos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geminos/Geminos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geminos/Geminos.md"
+              }
             }
           },
           {
@@ -180,34 +155,47 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8ae15efc001bd6b3",
+  "active": "3c19a5c2b4b60505",
   "lastOpenFiles": [
-    "Geminos/Aureliana/Nations/Atla.md",
-    "NPCs/Helia/Gordon Colt.md",
-    "Geminos/Aewin/Nations/Elysia.md",
-    "Halla Skydda.md",
+    "Items/Orvoss (Herb).md",
+    "Pictures/Aewin and Aureliana Parchment (2).jpg",
+    "NPCs/Skala/Kirlay Timea.md",
+    "Geminos/Aureliana/Places/Skala/Azyar's Warmth.md",
+    "NPCs/Skala/Varadi Okval.md",
+    "NPCs/Skala/Torok Vilmos.md",
+    "NPCs/Skala/Katona Skala.md",
+    "Orders/Knights-Errant.md",
+    "Pictures/Kirlay.png",
+    "Pictures/Varadi.webp",
+    "Geminos/Aureliana/Places/Skala/Orvoss' Breath.md",
+    "Pictures/Azyar'sWarmth.webp",
+    "Geminos/Aureliana/Places/Skala/Skala (City).md",
+    "Templates/Place Template.md",
+    "Templates/Recap Template.md",
+    "Templates/Session Template.md",
+    "Templates/Religion Template.md",
+    "Templates/Item Template.md",
+    "Templates/Metadata.md",
+    "Templates/People Template.md",
+    "Templates/PC Template.md",
+    "Templates/Order Template.md",
+    "Templates/NPC Template.md",
+    "Templates/Nation Template.md",
+    "Templates/Deity Template.md",
+    "Templates",
     "Geminos/Timeline of Historical Events.md",
-    "Sessions/Party One/Notes/Session 2 Party One.md",
-    "Favouna.md",
-    "Geminos/Aureliana/Places/Batarialli Favounir.md",
+    "Pictures/OrvossBReath.jpg",
     "Geminos/Aureliana/Nations/Paktt Skydda.md",
-    "Geminos/Aureliana/Nations/Batari.md",
-    "PCs/Helia.md",
-    "TBD/Timeline.md",
-    "Geminos/Aureliana/Places/Stenmur Gate.md",
-    "NPCs/Victoria.md",
-    "Geminos/Aureliana/Nations/Arzyl.md",
-    "Religions/Arzyl/Orvoss.md",
-    "Geminos/Ellanor/Nations/Farran.md",
-    "Geminos/Ellanor/Nations/Beluir.md",
-    "Geminos/Aureliana/Places/Skala (City).md",
-    "Geminos/Aureliana/Places/Northern Spine.md",
-    "Geminos/Aureliana/Nations/Sanctus.md",
-    "Geminos/Aureliana/Nations/Rosaria.md",
-    "Geminos/Aureliana/Nations/Obitarum.md",
-    "Geminos/Aureliana/Nations/Calor.md",
-    "Geminos/Aewin/Places/Wastrel.md",
-    "Geminos/Aewin/Aewin.md",
+    "Pictures/OrvossBReath 1.jpg",
+    "Religions/Firstborn Pantheon/Azyar.md",
+    "Religions/Firstborn Pantheon/Firstborn Pantheon.md",
+    "Religions/Old Faith/Old Faith.md",
+    "Pictures/Azyar.jpg",
+    "Pictures/orvoss.jpg",
+    "Peoples",
+    "Pictures/Skala.jpg",
+    "Geminos/Aewin/Places/Annica",
+    "Geminos/Aureliana/Places/Skala",
     "Untitled.canvas",
     "Religions/Castanar",
     "Pictures/Torok Art.png",
@@ -215,17 +203,6 @@
     "NPCs/Claude",
     "Sessions/Party One/Notes",
     "Sessions/Party One/Recaps",
-    "NPCs/Helia/Untitled",
-    "NPCs/Helia",
-    "Pictures/11edb28540785191f640c2d8f99ca560.jpg",
-    "NPCs/Morgana",
-    "NPCs/Skala",
-    "Sessions/Party One",
-    "Pictures/Delphapng.png",
-    "Pictures/Aewin and Aureliana Poltical Map.jpg",
-    "Pictures/Katarina Zenili Art.jpg",
-    "Pictures/Aewin.jpg",
-    "Pictures/Aureliana.jpg",
-    "Pictures/Aewin and Aureliana.jpg"
+    "NPCs/Helia/Untitled"
   ]
 }

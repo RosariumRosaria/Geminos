@@ -3,6 +3,7 @@ type: Place
 world: Geminos
 continent: []
 nation: []
+location
 tags: [Place]
 description: ""
 ---
@@ -15,10 +16,13 @@ description: ""
 
 ---
 ## Details:
-- continent: [[]]
+- Continent: [[]]
 - Nation: [[]]
+- Location: [[]]
+
 
 ---
+
 
 
 

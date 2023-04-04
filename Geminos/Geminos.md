@@ -23,7 +23,7 @@ Recent years have heralded the start of a new era, with ancient kingdoms shaken 
 ![[Aewin and Aureliana.jpg]]
 ### Political:
 
-![[Aewin and Aureliana Poltical Map.jpg]]
+![[Aewin and Aureliana Parchment (2).jpg]]
 ---
 
 

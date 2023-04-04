@@ -45,9 +45,10 @@ party: 1
 ## Secrets and Clues
 
 - [ ] Seems this room was an exhibit on batkin sites
-- [ ] Open books are mostly old maps, batkin history, and such
-- [ ] Portal with rune, bat blood & ash
-- [ ] Locked up caretaker
+- [x] Open books are mostly old maps, batkin history, and such
+- [ ] torn out pages
+- [x] Portal with rune, bat blood & ash
+- [ ] Locked up caretaker (Anna Misoli)
 - [ ] Leads to a tomb in the nearby mountains (Batkin ancient homeland)
 - [ ] Need blood of a batkin noble
 - [x] Bandits have a strange brand of batkin 
@@ -55,7 +56,7 @@ party: 1
 
 ## Loot
 
-- [ ] Retalis' spell book. Undecipherable, would need to spend time cracking the cipher to uncover it
+- [x] Retalis' spell book. Undecipherable, would need to spend time cracking the cipher to uncover it
 - [ ] Katerina's note book. Tells of her belief in a large batkin ruin being located somewhere in the nearby mountains
 - [ ]  Lost artifacts, can keep or sell: Old imperial governor laural (Silver), batkin scepter of gold specked obsidian
 
@@ -63,7 +64,14 @@ party: 1
 
 ## Log
 
-
+2 fake books
+bard book
+Haris Procopiidis
+Matthias
+Theodoris
+jack found book
+magic instrument 
+stole carriage
 
 -https://www.5esrd.com/gamemastering/monsters-foes/npc/mage-apprentice/
 -Bandits https://roll20.net/compendium/dnd5e/Bandit#content
