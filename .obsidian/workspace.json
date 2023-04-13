@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Skala/Kozma.md",
+                "file": "Geminos/Aureliana/Places/Skala/Kozma's Rest.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Skala/Kozma.md",
+                "file": "Geminos/Aureliana/Places/Skala/Kozma's Rest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Skala/Kozma.md",
+                "file": "Geminos/Aureliana/Places/Skala/Kozma's Rest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Skala/Kozma.md"
+                "file": "Geminos/Aureliana/Places/Skala/Kozma's Rest.md"
               }
             }
           },
@@ -208,10 +208,13 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "dc6b19a6f7c1d6c4",
+  "active": "51352a4cf7ebff08",
   "lastOpenFiles": [
-    "Geminos/Aewin/Nations/Mentae.md",
+    "Geminos/Aureliana/Places/Skala/Orvoss' Breath.md",
+    "Geminos/Aureliana/Places/Skala/Skala (City).md",
+    "Geminos/Aureliana/Places/Skala/The Emporium.md",
     "NPCs/Skala/Kozma.md",
+    "Geminos/Aewin/Nations/Mentae.md",
     "Orders, Organizations, and Families/Order of the Starry Night.md",
     "Sessions/Party One/Notes/Session 1 Party Two.md",
     "Items/Retalis' Notebook.md",
@@ -237,9 +240,6 @@
     "Geminos/Aewin/Nations/Mezari.md",
     "Geminos/Aewin/Nations/Kiseret.md",
     "Geminos/Aewin/Nations/Gunpowder Cartel.md",
-    "Geminos/Aewin/Nations/Elysian League.md",
-    "Geminos/Aewin/Nations/Elysia.md",
-    "Geminos/Aewin/Nations/Einhett.md",
     "Untitled.canvas",
     "NPCs/Callahan",
     "NPCs/Iris",

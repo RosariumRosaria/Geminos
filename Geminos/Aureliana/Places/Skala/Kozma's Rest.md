@@ -3,7 +3,7 @@ type: Place
 world: Geminos
 continent: [Aureliana]
 nation: [Arzyl]
-location: Skala
+location: [Skala]
 tags: [Place]
 description: ""
 ---
