@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Party One/Notes/Session 1 Party Two.md",
+                "file": "NPCs/Skala/Kozma.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Party One/Notes/Session 1 Party Two.md",
+                "file": "NPCs/Skala/Kozma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Party One/Notes/Session 1 Party Two.md",
+                "file": "NPCs/Skala/Kozma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Party One/Notes/Session 1 Party Two.md"
+                "file": "NPCs/Skala/Kozma.md"
               }
             }
           },
@@ -210,6 +210,9 @@
   },
   "active": "dc6b19a6f7c1d6c4",
   "lastOpenFiles": [
+    "Geminos/Aewin/Nations/Mentae.md",
+    "NPCs/Skala/Kozma.md",
+    "Orders, Organizations, and Families/Order of the Starry Night.md",
     "Sessions/Party One/Notes/Session 1 Party Two.md",
     "Items/Retalis' Notebook.md",
     "Sessions/Party One/Notes",
@@ -232,14 +235,11 @@
     "Geminos/Aewin/Places/Annica/Annica.md",
     "Geminos/Aewin/Nations/Patkana.md",
     "Geminos/Aewin/Nations/Mezari.md",
-    "Geminos/Aewin/Nations/Mentae.md",
     "Geminos/Aewin/Nations/Kiseret.md",
     "Geminos/Aewin/Nations/Gunpowder Cartel.md",
     "Geminos/Aewin/Nations/Elysian League.md",
     "Geminos/Aewin/Nations/Elysia.md",
     "Geminos/Aewin/Nations/Einhett.md",
-    "Geminos/Aewin/Nations/Castanar.md",
-    "Geminos/Aewin/Nations/Brevi.md",
     "Untitled.canvas",
     "NPCs/Callahan",
     "NPCs/Iris",

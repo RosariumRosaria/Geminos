@@ -6,7 +6,7 @@ world: Geminos
 description: ""
 race: [Arzyli]
 age: [45]
-gender:[Man]
+gender: [Man]
 class: [Tavernkeep]
 ---
 
