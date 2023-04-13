@@ -1,7 +1,7 @@
 ---
 type: NPC
 Nation: [Batari]
-location: [Favounir]
+location: []
 world: Geminos
 description: ""
 race: [Goliath]
@@ -12,7 +12,7 @@ class: []
 
 ## Description:
 
-A near mythic goliath warrior who founded [[Batarialli Favounir]]
+While her Wife, [[Favouna]] was more known for her prowess in battle, Iallanis was just a great leader during peace. She was known for finding beauty in all things, and for bring prosperity to her clan.
 
 ## Visual Description:
 

@@ -18,7 +18,7 @@ While much of [[Aureliana]] is cold and frigid, the currents of the Ellanori sea
 
 The unique connection to nature many Rosarians possess further augments this agricultural output. They can nurture plants beyond the normal, with a passing touch causing wilting crops to regain vigor. Folklore claims this is due to the ancient connection to [[Virdia]] that the Castnari settlers possessed. 
 
-The descendants of the Knights-Errant who founded Rosaria still stand guard over her. They have become her Rose Guard, an order dedicated to ensuring her borders and Queen's safety. They weaponize the gentle control over flora that others have, able to send whips of ivy to lash out at opponents or cause the roots of nearby trees to entangle their foes.
+The descendants of the Knights-Errant who founded Rosaria still stand guard over her. They have become her [[Rose Guard]], an order dedicated to ensuring her borders and Queen's safety. They weaponize the gentle control over flora that others have, able to send whips of ivy to lash out at opponents or cause the roots of nearby trees to entangle their foes.
 
 Occasionally a child might be born with a greater connection than most; often, this power comes with physical markings such as green skin or flowers sprouting in one's hair. These are the legendary Rosarian Dryads, which are nearly always recruited into the service of the Queen. They serve as her eyes and ears in the Rose Guard or as her personal attendants. The palaces of Rosaria are known for their elaborate gardens and creeping vines, and it's said every flower listens for secrets to report to the Queen.
 

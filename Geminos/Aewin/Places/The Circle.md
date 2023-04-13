@@ -13,7 +13,7 @@ While [[Mentae]] houses more colleges than most kingdoms have churches, the Circ
 
 Even some magics that many other lands consider less than savory are taught and normalized, with  The Circle having a campus dedicated to Necromancy. It is not uncommon to see a student followed by a trail of skeletons and familiars helping them carry their books.
 
-Notably, the Circle predates the [[Elysia|Elysian Empire]], initially being the capital of the Owlin tribes. The Owlin welcomed the Elysian takeover, with them using their peaceful acquiescence and arcane might to negotiate favorable terms. The Owlin knowledge deity was added to the [[Old Faith]], and the Circle was preserved. If anything, the Empire only brought more wealth and prestige to the Circle, with numerous nobles sending their children (and money). 
+Notably, the Circle predates the [[Elysia|Elysian Empire]], initially being the capital of the [[Owlin]] tribes. The Owlin welcomed the Elysian takeover, with them using their peaceful acquiescence and arcane might to negotiate favorable terms. The Owlin knowledge deity was added to the [[Old Faith]], and the Circle was preserved. If anything, the Empire only brought more wealth and prestige to the Circle, with numerous nobles sending their children (and money). 
 
 Today the Circle practically rules Mentae, with some even saying that the Circle Headmaster outranks the King-Enchanter himself. 
 
@@ -21,7 +21,7 @@ Today the Circle practically rules Mentae, with some even saying that the Circle
 
 ## Visual Description:
 
-The Circle consists of a constellation of campuses surrounding the central shrine to Vortae. Each campus has a unique archietecture theme related to it's area of expertiese.  
+The Circle consists of a constellation of campuses surrounding the central shrine to Vortae. Each campus has a unique architectural theme related to it's area of expertise.  
 
 ---
 ## Details:

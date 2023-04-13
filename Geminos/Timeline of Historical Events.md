@@ -1,6 +1,6 @@
 Please do note, I have a small brain. If you see something wrong or contradictory, please tell me. If you want anything added, please do let me know, this is hardly everything.
 
--  Around 900 years before the founding of Elys (exact date uncertain and apocryphal), the [[Lady of the Lake]] appears and declares a new dynasty after a peasant revolt overthrows the old one. A lowborn who would become the first member of the [[Knights-Errant]] becomes the new ruler following the completion of her oath.
+-  Around 900 years before the founding of Elys (exact date uncertain and apocryphal), the [[Lady of the Lake]] appears and declares a new dynasty. A lowborn who would become the first member of the [[Knights-Errant]] becomes the new ruler following the completion of her oath.
 -   Around 130 years before the founding of Elys, the last Batarian Emperor dies heirless, leading to a succession crisis that fractures the empire into numerous states. To this day [[Batari]] lacks a leader. 
 -   In the year 1 of the Elysian Calendar, [[Elys]] is founded. According to legend, an Oracle of the [[Twin Goddesses]] and her followers journeyed to the island of [[Salus]] and founded the city after receiving a vision of a great empire springing forth from it.
 -   The [[Elysia|Elysian Empire]] collapses, with most historians agreeing that it happens in 1105. The process of decay is long and drawn-out, with provinces breaking away, generals rebelling, and corruption taking hold.

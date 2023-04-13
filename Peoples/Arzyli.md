@@ -7,9 +7,9 @@ description: ""
 
 ## Description:
 
-The Arzyli are the reptilian inhabitants of [[Arzyl]]. 
+The Arzyli are the reptilian inhabitants of [[Arzyl]]. While they are considered to be one people, culturally and physically they vary immensely. 
 
-Some clans of Arzyli of take on the appearances of their ancient dragon-gods, with 
+Some clans of Arzyli of take on the appearances of their ancient [[Firstborn Pantheon]], gaining the attributes and physical traits of their progenitor. 
 
 
 ---

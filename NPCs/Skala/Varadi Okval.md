@@ -22,8 +22,8 @@ Varadi, on her wedding day
 
 ---
 ## Details:
-- Home: [[]]
-- Nation: [[]]
+- Home: [[Skala]]
+- Nation: [[Arzyli]]
 
 ---
 

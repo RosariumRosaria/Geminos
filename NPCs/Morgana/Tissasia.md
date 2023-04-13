@@ -1,10 +1,10 @@
 ---
 type: NPC
-Nation: [Kisert]
+Nation: [Kiseret]
 location: []
 world: Geminos
 description: ""
-race: [Kiserti]
+race: [Kisereti]
 age: []
 gender: [Woman]
 class: []

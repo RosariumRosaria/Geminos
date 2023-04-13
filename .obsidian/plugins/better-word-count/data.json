@@ -20,13 +20,22 @@
   "altBar": [
     {
       "prefix": "",
-      "suffix": " files",
+      "suffix": " files ",
       "metric": {
         "type": 2,
-        "counter": 3
+        "counter": 6
+      }
+    },
+    {
+      "prefix": "",
+      "suffix": " Words",
+      "metric": {
+        "type": 2,
+        "counter": 0
       }
     }
   ],
   "countComments": false,
-  "collectStats": true
+  "collectStats": true,
+  "pageWords": 300
 }

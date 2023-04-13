@@ -4,22 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "a4233f18408171c0",
+        "id": "829822f4857b6a4d",
         "type": "tabs",
         "children": [
           {
-            "id": "3c19a5c2b4b60505",
+            "id": "475964cde76b963b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geminos/Geminos.md",
-                "mode": "preview",
+                "file": "Sessions/Party Two/Notes/Session 4 Party Two.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc6b19a6f7c1d6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religions/Lys Auralis/Favouna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4b48372bb472246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geminos/Aewin/Nations/Mentae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a87ab4368cdf85d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a3e2cf5166a2315",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orders, Organizations, and Families/Order of the Starry Night.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd7ca8a893d66074",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f290f7de98f4d4a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fe793a7a22e3464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Annica/Allumi Misoli.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,8 +121,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kirlay",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geminos/Geminos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +174,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geminos/Geminos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,20 +195,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geminos/Geminos.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "7a490e02203ee770",
+            "id": "65ac154674019052",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,58 +221,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3c19a5c2b4b60505",
+  "active": "0a87ab4368cdf85d",
   "lastOpenFiles": [
-    "Items/Orvoss (Herb).md",
+    "Items/Aldasa Nihion.md",
+    "Geminos/Aureliana/Nations/Obitarum.md",
+    "Geminos/Aureliana/Nations/Paktt Skydda.md",
+    "Geminos/Aureliana/Nations/Calor.md",
+    "Geminos/Aureliana/Nations/Batari.md",
+    "Geminos/Aureliana/Nations/Atla.md",
+    "Geminos/Aureliana/Nations/Arzyl.md",
+    "Geminos/Aewin/Aewin.md",
+    "Geminos/Aewin/Places/The Circle.md",
+    "Geminos/Aewin/Places/Sunken Sands.md",
+    "Geminos/Aewin/Places/Southern Spine.md",
+    "Geminos/Aewin/Places/Annica/Wastrel.md",
+    "Geminos/Aewin/Places/Annica/Annica.md",
+    "Geminos/Aewin/Nations/Patkana.md",
+    "Geminos/Aewin/Nations/Mezari.md",
+    "Geminos/Aewin/Nations/Mentae.md",
+    "Geminos/Aewin/Nations/Kiseret.md",
+    "Geminos/Aewin/Nations/Gunpowder Cartel.md",
+    "Geminos/Aewin/Nations/Elysian League.md",
+    "Geminos/Aewin/Nations/Elysia.md",
+    "Geminos/Aewin/Nations/Einhett.md",
+    "Geminos/Aewin/Nations/Castanar.md",
+    "Geminos/Aewin/Nations/Brevi.md",
+    "Geminos/Aewin/Nations/Arcus.md",
+    "Items/Retalis' Notebook.md",
+    "Sessions/Party Two/Notes/Session 4 Party Two.md",
+    "Untitled.canvas",
+    "NPCs/Callahan",
+    "NPCs/Iris",
+    "Religions/Uralkur",
+    "NPCs/Order of the Stary Night",
+    "Pictures/Allumi.jpg",
+    "Pictures/11edb28540785191f640c2d8f99ca560.jpg",
+    "Pictures/turtle.jpg",
+    "Sessions/Party One/Notes",
+    "Sessions/Party One",
+    "Resources/Name Lists",
     "Pictures/Aewin and Aureliana Parchment (2).jpg",
-    "NPCs/Skala/Kirlay Timea.md",
-    "Geminos/Aureliana/Places/Skala/Azyar's Warmth.md",
-    "NPCs/Skala/Varadi Okval.md",
-    "NPCs/Skala/Torok Vilmos.md",
-    "NPCs/Skala/Katona Skala.md",
-    "Orders/Knights-Errant.md",
     "Pictures/Kirlay.png",
     "Pictures/Varadi.webp",
-    "Geminos/Aureliana/Places/Skala/Orvoss' Breath.md",
     "Pictures/Azyar'sWarmth.webp",
-    "Geminos/Aureliana/Places/Skala/Skala (City).md",
-    "Templates/Place Template.md",
-    "Templates/Recap Template.md",
-    "Templates/Session Template.md",
-    "Templates/Religion Template.md",
-    "Templates/Item Template.md",
-    "Templates/Metadata.md",
-    "Templates/People Template.md",
-    "Templates/PC Template.md",
-    "Templates/Order Template.md",
-    "Templates/NPC Template.md",
-    "Templates/Nation Template.md",
-    "Templates/Deity Template.md",
     "Templates",
-    "Geminos/Timeline of Historical Events.md",
     "Pictures/OrvossBReath.jpg",
-    "Geminos/Aureliana/Nations/Paktt Skydda.md",
     "Pictures/OrvossBReath 1.jpg",
-    "Religions/Firstborn Pantheon/Azyar.md",
-    "Religions/Firstborn Pantheon/Firstborn Pantheon.md",
-    "Religions/Old Faith/Old Faith.md",
     "Pictures/Azyar.jpg",
-    "Pictures/orvoss.jpg",
     "Peoples",
-    "Pictures/Skala.jpg",
-    "Geminos/Aewin/Places/Annica",
-    "Geminos/Aureliana/Places/Skala",
-    "Untitled.canvas",
-    "Religions/Castanar",
-    "Pictures/Torok Art.png",
-    "Items",
-    "NPCs/Claude",
-    "Sessions/Party One/Notes",
-    "Sessions/Party One/Recaps",
-    "NPCs/Helia/Untitled"
+    "Geminos/Aewin/Places/Annica"
   ]
 }

@@ -27,22 +27,22 @@ Skala is a city of faith, and innumerable temples dedicated to the gods of the A
 
 Locations: 
 - [[Orvoss' Breath]]
-- Alechmeists
-- Inn 2
-- Merchant (Torok)
+- [[Erka's Elixirs]]
+- [[Azyar's Warmth]]
+- [[The Emporium]]
 - Library
 - Smithy
-- Temple 1
-- temple 2
-- Inn 3
+- Temple to Azyar
+- Temple to Orvoss
+- School
 - Keep
 - Palace
 - Dock
-- Training
-- Batari Inn
-- Big Market
+- Jail
+- [[Concordia's Blessing]]
+- Wanderer's Plaza 
 - Hospital
-- Farm Inn
+- [[Kozma's Rest]]
 
 ---
 ## Details:
