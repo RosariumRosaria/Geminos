@@ -7,7 +7,7 @@ language: []
 species: []
 tags: [Nation]
 religion: []
-description: "Tarcza is a strange nation with a contradiction at it's core. with the majority of the middle class consisting of craftsmen, artisans, teachers, governors, minor officials, and landowners. However, what makes Tarcza stand out is the presence of the "Marca," or "The Marked," in their society. These individuals, often referred to as Tieflings in other nations, come from all races and make up both the extreme low and high of Tarczan society."
+description: "Tarcza is a strange nation with a contradiction at it's core. with the majority of the middle class consisting of craftsmen, artisans, teachers, governors, minor officials, and landowners. However, what makes Tarcza stand out is the presence of the Marca, or The Marked, in their society. These individuals, often referred to as Tieflings in other nations, come from all races and make up both the extreme low and high of Tarczan society."
 ---
 
 ## Description:
