@@ -7,7 +7,7 @@ language: []
 species: [Yuan-Ti]
 tags: [Nation]
 religion: []
-description: ""
+description: "Beluir once ruled over nearly the entirety of [Ellanor](app://obsidian.md/Ellanor). The Empire planted its banner on almost every island of the sea and much of the coast. The Yuan-Ti that called it home once enjoyed all the fruits of the world's riches. Once."
 ---
 
 ## Description:

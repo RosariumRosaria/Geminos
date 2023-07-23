@@ -22,6 +22,14 @@ However, recent years have shattered the stability and isolation of Castanar tha
 
 With the old queen of Castanar dying heirless, the laws of succession called for the [[Lady of the Lake]] to appoint a new leader. This ancient rite has not been invoked since the founding of Castanar in ancient times. However, with the Lady not seen for millennia, the throne remains empty, and the enemies of Castanar threaten the borders on all sides.
 
+## Cultural Regions:
+
+Literal millennia of relative stability and cultural exchange has led to Castanar being a mostly homogonous region, with all those in the kingdom thinking of themselves as Castanari first and foremost. However that does not mean that the kingdom is a true monolith as traces of pre-Castanari culture still exist to this day. 
+
+Quintessential Castanari culture is best exhibited the lands of [[House Darach]] along with the other houses of central Castanar. Many of these houses either are ancient cadet branches of the royal line itself, or claim some lineage from the original followers of [[Lady Adalyn]]. Due to its predominant status, this is dubbed High-Castanari.  
+
+High-Castanari demonstrates everything that 
+
 ---
 ## Details:
 - continent: [[Aewin]]

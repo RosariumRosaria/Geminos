@@ -7,7 +7,7 @@ language: []
 species: [Genasi]
 tags: [Nation]
 religion: []
-description: ""
+description: "Atla is not a conventional kingdom, dictatorship, republic, aristocracy, or even nation. Instead, it is a culture or way of life. The people of Atla are not governed by a central authority but rather by the community around them."
 ---
 
 ## Description:

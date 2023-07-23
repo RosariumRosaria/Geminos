@@ -7,7 +7,7 @@ language: []
 species: []
 tags: [Nation]
 religion: []
-description: ""
+description: "Rising straight from the sea, Farran is unique. Lacking the shores and flat land of any other civilization, Farran consists of a cluster of several towering stone pinnacles. Farran's people are also notable, entirely composed of winged species, primarily of Avian descent."
 ---
 
 ## Description:

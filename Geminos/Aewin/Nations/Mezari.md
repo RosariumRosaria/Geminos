@@ -7,7 +7,7 @@ language: []
 species: [Dwarf, Halfling]
 tags: [Nation]
 religion: []
-description: ""
+description: "For millennia, the Mezari halflings traveled across the Sunken Sands in their massive dunestriders. They controlled the only overland route to bridge northern and southern Aewin. This meant that when pirates or great storms made sea trade untenable, only they could provide the hungry markets of the north with the bounty of the southern lands."
 ---
 
 ## Description:

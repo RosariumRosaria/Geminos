@@ -7,7 +7,7 @@ gender: [Nonbinary]
 
 ## Description:
 
-Nihion goes by many names. They are known as the Emperor of the [[Uralkor]], the Creator of [[Kiseret]], the Carver of Caverns, the Giver of Laws, and the Forger of Magic. It is said that they have as many titles and crowns as there are Kisereti.
+Nihion goes by many names. They are known as the  Uralkori (All monarch, or sovereign of the [[Uralkor]]), the Creator of [[Kiseret]], the Carver of Caverns, the Giver of Laws, and the Forger of Magic. It is said that they have as many titles and crowns as there are Kisereti.
 
 ## Origin of Kiseret:
 

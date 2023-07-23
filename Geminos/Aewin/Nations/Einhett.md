@@ -7,7 +7,9 @@ language: []
 species: [Orcs, Centaur, Hobgoblin]
 tags: [Nation]
 religion: []
-description: ""
+description: "The peoples of the swamplands are as varied as any; Grung, Orc, Goblin, and Centaur all call them home. The one thing that unites them is their long-suffering at the hands of the Knights-Errant of Castanar. Those knights took it upon themselves to defend their borderlands from raids and incursions… by raiding the swamps in turn.
+
+History is unsure who actually struck the first blow."
 ---
 
 ## Description:

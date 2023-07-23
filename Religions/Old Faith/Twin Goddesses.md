@@ -2,6 +2,7 @@
 type: Deity
 religion: [Old Faith]
 gender: [Female]
+aliases: [Aureliana, Aewin]
 description: "According to the faithful who follow them, they gave their bodies to create the two continents of Geminos, with the spirit of each guarding the land. As such, the names of the two continents also come from them."
 ---
 

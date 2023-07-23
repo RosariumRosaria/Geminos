@@ -7,7 +7,7 @@ language: [Elysian]
 species: [Dwarves, Humans]
 tags: [Nation, Eylsian]
 religion: []
-description: ""
+description: "One of the only Dwarvish states in Aewin, the semi-unified clans of the Gunpowder Cartel maintain a stranglehold on their namesake, gunpowder. They are the sole provider of gunpowder in all of Aewin, with the armies of all Elysia, Mentae, Arcus, and numerous others relying on them to fuel their weapons."
 ---
 
 ## Description:

@@ -7,7 +7,7 @@ language: []
 species: []
 tags: [Nation, The-Southern-Spine]
 religion: []
-description: ""
+description: "Beneath the palaces of the Kiseret on the cavern floor of the Southern Spine sits the Commune of Patkana. While the Batkin were blessed with flight, the Ratkin (Or, more formally, Patkany) were blessed with an innovative spirit. As a result, many a Patkana clansmen have risked their lives upon some inane invention, with roughly equal amounts of succeeded and failed attempts."
 ---
 
 ## Description:

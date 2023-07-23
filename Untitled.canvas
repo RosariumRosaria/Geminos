@@ -1,1 +1,24 @@
-{}
+{
+	"nodes":[
+		{"type":"text","text":"Aewin - Summer","id":"95a71d1b2414eb92","x":1080,"y":921,"width":250,"height":50},
+		{"type":"text","text":"Aureliana - Winter","id":"9e710584d5a1fa46","x":60,"y":921,"width":250,"height":60},
+		{"type":"text","text":"Niva- Knoweldge","id":"1b25ea915aa758f2","x":380,"y":1018,"width":250,"height":60},
+		{"type":"text","text":"Theama - Time","id":"0774ba4f87341d03","x":-260,"y":1018,"width":250,"height":50},
+		{"type":"text","text":"Orphus - Work","id":"69e39c1605e179a8","x":380,"y":1220,"width":250,"height":60},
+		{"type":"text","text":"Requi - Rest","id":"bb34c89ff78641bb","x":1420,"y":1220,"width":250,"height":50},
+		{"type":"text","text":"Intereti - Decay","id":"ee4052968c599c2d","x":1780,"y":1220,"width":250,"height":50},
+		{"type":"text","text":"Valorin - War","id":"b5b4499dfca09a46","x":1420,"y":1018,"width":250,"height":60},
+		{"type":"text","text":"Caedin - Passion\n","id":"f52299232a6b9034","x":780,"y":1018,"width":250,"height":60},
+		{"type":"text","text":"Auctus - Growth","id":"404b56aaff9621a0","x":780,"y":1220,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e63ea11c0b4be023","fromNode":"0774ba4f87341d03","fromSide":"top","toNode":"9e710584d5a1fa46","toSide":"bottom"},
+		{"id":"517230b9b3afe32c","fromNode":"1b25ea915aa758f2","fromSide":"top","toNode":"9e710584d5a1fa46","toSide":"bottom"},
+		{"id":"47a57c1cdafef6b5","fromNode":"f52299232a6b9034","fromSide":"top","toNode":"95a71d1b2414eb92","toSide":"bottom"},
+		{"id":"36cb1442f565d91b","fromNode":"b5b4499dfca09a46","fromSide":"top","toNode":"95a71d1b2414eb92","toSide":"bottom"},
+		{"id":"7cb633022e5f64bd","fromNode":"69e39c1605e179a8","fromSide":"right","toNode":"404b56aaff9621a0","toSide":"left","toEnd":"none"},
+		{"id":"2e6c2bd5be02d8d0","fromNode":"bb34c89ff78641bb","fromSide":"right","toNode":"ee4052968c599c2d","toSide":"left","toEnd":"none"},
+		{"id":"a403db98a6f4ae9d","fromNode":"69e39c1605e179a8","fromSide":"bottom","toNode":"bb34c89ff78641bb","toSide":"bottom"},
+		{"id":"c86577c65072cdb7","fromNode":"404b56aaff9621a0","fromSide":"top","toNode":"ee4052968c599c2d","toSide":"top"}
+	]
+}

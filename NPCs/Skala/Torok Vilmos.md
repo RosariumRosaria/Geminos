@@ -29,4 +29,3 @@ While the rebellion disrupted his business, it also allowed him to grow even ric
 
 ---
 
-

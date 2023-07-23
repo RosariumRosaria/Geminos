@@ -20,9 +20,9 @@ A quaint country home, with a large central room kept warm by a central fireplac
 
 ---
 ## Details:
-- Continent: [[]]
-- Nation: [[]]
-- Location: [[]]
+- Continent: [[Aureliana]]
+- Nation: [[Arzyl]]
+- Location: [[Skala]]
 
 
 ---

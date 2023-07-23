@@ -1,13 +1,14 @@
 ---
 type: Nation
 world: Geminos
+adjective: Brevis
 continent: [Aewin]
 capital: []
 language: []
 species: [Elves, Halflings, Gnomes]
 tags: [Nation]
 religion: []
-description: ""
+description: "Brevi's ambitions are not in the conquest of territory but in the collection of wealth. Following the ancient unification of the elven clans of the region, they declared neutrality in all external conflicts. This peace allowed Brevi to focus on internal development."
 ---
 
 ## Description:

@@ -7,7 +7,7 @@ language: [Arzylian]
 species: [Arzyli]
 tags: [Nation]
 religion: []
-description: ""
+description: "Arzyli's history is filled with internecine squabbling, with each clan vying for power and influence. For much of time, this took the form of raids, wars, and cold Arzyli blood flowing aplenty. However, this changed when one clan managed to subjugate all the others, forging an empire through subterfuge and trickery."
 ---
 
 ## Description:

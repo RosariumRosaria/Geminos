@@ -7,7 +7,7 @@ language: []
 species: [Dwarf]
 tags: [Nation]
 religion: []
-description: ""
+description: "Paktt Skydda , is a dwarven clan located near the Stenmur Gate. In fact along with clans of Batari the ancestors of Paktt Skydda forged it. It is the knowledge and skills of the very rune-smiths who forged inscribed the stones of the gate that has been passed down to the Skyddan clan today."
 ---
 
 ## Description:
